@@ -57,14 +57,14 @@ However, just trying over and over again isn’t sufficient. We need to be able 
 
 We are using PyCharm to run a script for an assignment. You can press the play button in the upper right corner or hit run from the menu bar to run the script. Below is a screenshot of how I run it from PyCharm:
 
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2011.25.40%20PM.png
+![screen3](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2011.25.40%20PM.png)
 
 When launching from the shell, since I am using Python3 on my Mac and macOS can have more than one version of Python installed, I have to make sure to designate Python3 when I call the script to run.  Below is a screenshot of how I call the script to run from terminal:
 
 
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2011.30.25%20PM.png
+[!screen4](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2011.30.25%20PM.png)
 
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2011.27.17%20PM.png
+[!screen5](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2011.27.17%20PM.png)
 
 
 The script is saved as a .py file (for python script) in my class directory: /Users/perry/Documents/_PythonClass/Class 7/Assignment06/Assignment07.py and same directory, but ./try-except.py for the 2nd script.
@@ -76,16 +76,16 @@ The script is saved as a .py file (for python script) in my class directory: /Us
 Please see below for a final output screenshot of pickle Python script. First, the output while running in PyCharm and then from the shell:
 
 
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.17.33%20PM.png
+[!screen6](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.17.33%20PM.png)
 
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.18.47%20PM.png
+[!screen7](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.18.47%20PM.png)
 
 
 
 Output from running the try-except script from the shell (terminal) in macOS:
 
 
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.34.41%20PM.png
+[!screen8](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.34.41%20PM.png)
 
 
 
