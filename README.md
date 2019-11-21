@@ -6,9 +6,14 @@
 #                  Pickle Module and Try/Except Python Scripts
 
 
+
+
+
 ## Introduction
 
 In this assignment, I will go over how to use the pickle module with python to serialize data. Also, I will show how to capture and trap errors with a try/except loop/block. I will be creating the script using Python3, PyCharm CE and macOS
+
+
 
 
 ## Coming up with the Code
@@ -20,11 +25,14 @@ I decided to demonstrate both new concepts for this assignment in 2 different sc
 With Try/Except, we first use try to execute any code we want - in this assignment I use Try/Except as a loop to check for errors. We can use the except part of the loop to trap any error that may happen with our try code. I have used Try/Except in a few assignments already this year and like a good programmer, I wanted to re-use some code that was already written.
 
 
+
+
 ## How the Code Works
 
 First up, let’s look at our Pickle example. I kept the code as simple as possible to just be able to spell out quickly how the Pickle Module works and functions. Below is a screenshot of my Pickle code:
 
 
+https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.16.08%20PM.png
 
 
 
