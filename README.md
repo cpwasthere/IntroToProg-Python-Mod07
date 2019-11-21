@@ -31,9 +31,7 @@ With Try/Except, we first use try to execute any code we want - in this assignme
 
 First up, let’s look at our Pickle example. I kept the code as simple as possible to just be able to spell out quickly how the Pickle Module works and functions. Below is a screenshot of my Pickle code:
 
-
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.16.08%20PM.png
-
+![screen1](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.16.08%20PM.png)
 
 The first thing you must do if you want to use Pickle is import the module into your script. You can do that as pictured above by using “import pickle” with the import syntax.
 
@@ -43,9 +41,7 @@ Lastly, we want to read the data back from our binary file so we need to de-seri
 
 Moving on to our 2nd script, we look at our Try/Except example. I decided to reuse code I had written before for a different assignment since it applied here as well. Below is the code I am using for my try/except example:
 
-
-https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.36.44%20PM.png
-
+![screen2](https://github.com/cpwasthere/IntroToProg-Python-Mod07/blob/master/Screen%20Shot%202019-11-20%20at%2010.36.44%20PM.png)
 
 
 This code represents a choice from a main menu of a script. In this choice, we are asking the user if they would like to save any of the data they have so far input to the running session. The try/except loop here is nested inside a while loop. The while loop ensures we keep trying until we get the answer we want for our question to the user.
